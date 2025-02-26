@@ -8,6 +8,9 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 ### 🏆 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemasmyunus&layout=compact&theme=radical)
 
+### 🔥 Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kemasmyunus&theme=radical&border_radius=5&card_width=500)
+
 ### 🌱 Currently Learning:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
